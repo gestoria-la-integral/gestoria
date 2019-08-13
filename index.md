@@ -14,8 +14,6 @@ layout: default
 Transferencias, Patentamientos, Informe y Certificado de Dominio, Denuncia de Venta, Denuncia de Robo/Hurto, Altas y Bajas Impositivas, Cambio de radicación, Duplicado de Título y/o Cédula Verde, Cédula Azul, Reposición de Placas Metálicas, Inscripción y Cancelación de Prendas, Libre de deuda de Infracciones, Trámites Registrales en general Autos, Motos.
 
 
-#### Header 4
-
 - Asesoramiento general sobre documentación de automotores.
 - Patentamiento de 0 Km. (nacional e importado).
 - Transferencias (vehículos inscriptos en cualquier punto del país).
@@ -43,19 +41,9 @@ Transferencias, Patentamientos, Informe y Certificado de Dominio, Denuncia de Ve
 - Certificados de Infracciones de Capital
 - Certificado Nacional de Infracciones de Transito (localidades con convenio)
 - Informes Preventivos: Antes de comprar o vender un automotor usado es muy importante asesorarse y contar con informes preventivos. Solicite este servicio, que consta de informe de deuda de patentes, constancia de pagos y liquidaciones de deuda, informe de infracciones de Capital, Gran Bs. As. e Interior, Informe Historico de Dominio, libre prenda, embargo e inhibicion.
-##### Header 5
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+### Contacto
 
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+Ante cualquier duda o consulta envianos un mail a gestoria-laintegral@hotmail.com
 
 
