@@ -44,6 +44,6 @@ Transferencias, Patentamientos, Informe y Certificado de Dominio, Denuncia de Ve
 
 ### Contacto
 
-Ante cualquier duda o consulta envianos un mail a gestoria-laintegral@hotmail.com
+Ante cualquier duda o consulta envianos un mail a gestoria-laintegral@hotmail.com o vía whatsApp al 2478-444436
 
 
