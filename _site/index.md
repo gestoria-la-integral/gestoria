@@ -8,7 +8,7 @@ layout: default
 
 <!-- [Link to another page](./another-page.html). -->
 
-
+<!-- 
 # Nuestros servicios
 
 Transferencias, Patentamientos, Informe y Certificado de Dominio, Denuncia de Venta, Denuncia de Robo/Hurto, Altas y Bajas Impositivas, Cambio de radicación, Duplicado de Título y/o Cédula Verde, Cédula Azul, Reposición de Placas Metálicas, Inscripción y Cancelación de Prendas, Libre de deuda de Infracciones, Trámites Registrales en general Autos, Motos.
@@ -41,6 +41,6 @@ Transferencias, Patentamientos, Informe y Certificado de Dominio, Denuncia de Ve
 
 ### Contacto
 
-Ante cualquier duda o consulta envianos un mail a gestoria-laintegral@hotmail.com o vía whatsApp al 2478-444436
+Ante cualquier duda o consulta envianos un mail a gestoria-laintegral@hotmail.com o vía whatsApp al 2478-444436 -->
 
 
